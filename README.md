@@ -1,1 +1,1 @@
-# Java-CICD-Implementation-Deployment-Manifesty
+# Java-CICD-Implementation-Deployment-Manifest
